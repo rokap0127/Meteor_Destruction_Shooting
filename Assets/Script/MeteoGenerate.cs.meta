@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7ecde749c8f74f04a9c0203ea67bf069
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - meteo: {fileID: 2139718280112469180, guid: 426ac4fee2d90314c94357fee980751e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
